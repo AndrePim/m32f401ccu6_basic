@@ -1,0 +1,5 @@
+r
+loadbin build/Debug/STM32F401CCU6_W5500.bin, 0x08000000
+r
+g
+q
